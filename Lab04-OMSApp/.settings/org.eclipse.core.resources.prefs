@@ -1,0 +1,4 @@
+eclipse.preferences.version=1
+encoding//src/com/oms/bean/Order.java=UTF-8
+encoding//src/test/com/oms/bean/TotalCostBlackBoxTest.java=UTF-8
+encoding//src/test/com/oms/bean/TotalCostWhiteBoxTest.java=UTF-8
